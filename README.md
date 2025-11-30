@@ -34,7 +34,7 @@ A simple and efficient task management desktop application built using **Python*
 
 3. Via Python
    ```bash
-   git clone https://github.com/DevManoj96/To_Do_List.git
+   git clone https://github.com/VoinFeix/To_Do_List.git
    cd To_Do_List
    python3 to_do_list.py
    ```
